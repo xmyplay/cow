@@ -1,3 +1,7 @@
-## 欢迎使用神牛助手
+[下载最新Android版本](https://github.com/xmyplay/cow.github.io/edit/gh-pages/index.md)
 
- [下载Android版本](https://github.com/xmyplay/cow.github.io/edit/gh-pages/index.md)
+#### 1.目前免费使用，提供付费一样的体验
+#### 2.计划10000个用户关闭新用户通道
+#### 3.KCP协议，超高速网速体验
+#### 4.仅提供给中国大陆用户
+#### 5.看到此页面的都是有缘人
