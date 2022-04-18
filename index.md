@@ -4,4 +4,5 @@
 #### 2.覆盖全球节点，美国，日本，新加坡，俄罗斯等
 #### 3.UDP协议Fast tunnel，极致网速体验
 #### 4.[神牛助手TG官方群](https://t.me/+xFmBwrT5YkxmZjRl)
+## [Google Play 商店下载](https://play.google.com/store/apps/details?id=cc.coco.fastproxy)
 
